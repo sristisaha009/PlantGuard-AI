@@ -1,0 +1,86 @@
+{
+  "rice_brown_spot": {
+    "name": "Rice Brown Spot",
+    "cause": "It is caused by the fungus *Bipolaris oryzae* (also known as *Helminthosporium oryzae*).",
+    "symptoms": [
+      "Small, circular to oval brown lesions on leaves with gray or whitish centers.",
+      "Lesions can enlarge and merge, leading to leaf drying.",
+      "Infected grains appear discolored and shriveled."
+    ],
+    "treatment": [
+      "Spray fungicides such as Mancozeb or Carbendazim at recommended doses.",
+      "Remove and destroy infected plant debris.",
+      "Use resistant rice varieties when available.",
+      "Avoid excess nitrogen fertilizer."
+    ],
+    "prevention": [
+      "Ensure proper field drainage to reduce humidity.",
+      "Use disease-free seeds and treat seeds with fungicide before sowing.",
+      "Maintain crop rotation to reduce fungal buildup."
+    ],
+    "additional_info": "Brown spot is often associated with nutrient deficiency (especially potassium) and stress conditions like drought."
+  },
+
+  "rice_bacterial_blight": {
+    "name": "Rice Bacterial Blight",
+    "cause": "It is caused by the bacterium *Xanthomonas oryzae* pv. *oryzae*.",
+    "symptoms": [
+      "Water-soaked streaks on leaf edges that turn yellow and then brown.",
+      "Leaves may wilt and die in severe cases.",
+      "When cut, bacterial ooze may appear from infected tissues."
+    ],
+    "treatment": [
+      "Apply copper-based bactericides (like Copper oxychloride) to reduce spread.",
+      "Avoid using infected seeds and fields with history of blight.",
+      "Use resistant rice varieties such as IR20, IR64, and MTU 1010."
+    ],
+    "prevention": [
+      "Use balanced fertilizer; avoid excess nitrogen.",
+      "Remove weeds and volunteer rice plants which can harbor bacteria.",
+      "Use proper water management to prevent spread through irrigation."
+    ],
+    "additional_info": "The disease spreads quickly under warm, humid, and rainy conditions and is one of the most destructive diseases of rice globally."
+  },
+
+  "rose_black_spot": {
+    "name": "Rose Black Spot",
+    "cause": "It is caused by the fungus *Diplocarpon rosae*.",
+    "symptoms": [
+      "Circular black spots with fringed edges on upper leaf surfaces.",
+      "Yellowing of leaves around spots leading to premature leaf drop.",
+      "Reduced plant vigor and fewer flowers."
+    ],
+    "treatment": [
+      "Prune and remove infected leaves and canes.",
+      "Spray fungicides such as Chlorothalonil, Mancozeb, or Neem oil weekly during wet conditions.",
+      "Improve air circulation by proper spacing and pruning."
+    ],
+    "prevention": [
+      "Water at the base of the plant to keep leaves dry.",
+      "Apply mulch to prevent fungal spores from splashing onto leaves.",
+      "Use resistant rose varieties if available."
+    ],
+    "additional_info": "Black spot thrives in humid conditions and can severely weaken the rose plant if left untreated."
+  },
+
+  "tomato_early_blight": {
+    "name": "Tomato Early Blight",
+    "cause": "It is caused by the fungus *Alternaria solani*.",
+    "symptoms": [
+      "Dark concentric ring-shaped spots on lower leaves.",
+      "Yellowing and drying of affected leaves starting from the base.",
+      "Spots can also appear on stems and fruits, reducing yield."
+    ],
+    "treatment": [
+      "Spray fungicides containing Chlorothalonil, Mancozeb, or Copper oxychloride at regular intervals.",
+      "Remove and destroy infected plant debris.",
+      "Practice crop rotation with non-solanaceous crops."
+    ],
+    "prevention": [
+      "Avoid overhead irrigation to reduce leaf wetness.",
+      "Provide good spacing between plants for air circulation.",
+      "Use certified disease-free seeds or seedlings."
+    ],
+    "additional_info": "Early blight occurs frequently in warm, humid climates and can cause major yield losses if not managed early."
+  }
+}
