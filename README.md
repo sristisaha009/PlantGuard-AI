@@ -22,7 +22,6 @@ PlantGuard AI combines deep learning-based plant disease detection with a struct
 * **Remedy Suggestions:** Displays predefined remedies and management recommendations.
 * **User Interaction:** Presents plant disease information in an easy-to-understand format.
 
-> **Note:** The current system uses predefined JSON-based information retrieval rather than a generative AI chatbot.
 
 ## 💡 Motivation
 
@@ -31,8 +30,7 @@ Plant diseases can negatively affect crop health and agricultural productivity. 
 PlantGuard AI was developed to explore how **computer vision and structured information retrieval** can be combined to create accessible plant health assistance tools.
 
 ## 🛠️ Tech Stack
-
-| Technology                  | Purpose                                   |
+                            |
 ## 🛠️ Tech Stack
 
 - **Programming Language:** Python
@@ -97,6 +95,3 @@ Symptoms & Remedies
 * Add multilingual support for regional agricultural users.
 * Develop a mobile application for convenient field-level usage.
 * Enable expert-verified treatment and disease management recommendations.
-
-
-`plant-disease-detection` `deep-learning` `computer-vision` `python` `agriculture-ai` `yolo` `plant-health` `machine-learning` `json`
