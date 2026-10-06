@@ -30,7 +30,7 @@ Plant diseases can negatively affect crop health and agricultural productivity. 
 PlantGuard AI was developed to explore how **computer vision and structured information retrieval** can be combined to create accessible plant health assistance tools.
 
 ## 🛠️ Tech Stack
-                            |
+
 ## 🛠️ Tech Stack
 
 - **Programming Language:** Python
